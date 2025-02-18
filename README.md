@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Hack involving a recursive function that leads to a stack overflow error. The error isn't immediately apparent from compile-time checks. The solution provides an iterative approach to avoid the recursive depth limitations.
